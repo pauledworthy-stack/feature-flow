@@ -1,0 +1,7 @@
+{
+  "name": "feature-flow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local browser workspace for product-feature interest across SaaS customers and leads.",
+  "scripts": {"start": "python3 -m http.server 8765 --bind 127.0.0.1", "check": "node --check app.js"}
+}
